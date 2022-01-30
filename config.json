@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "prefix": "!",
+    "record_command": "record",
+    "stop_command": "stop",
+    "line_length_limit": 4,
+    "channel_name_log": ["general", "tester", "record"],
+    "channel_admin_log_id" : "639771043468279819"
+}
